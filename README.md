@@ -2,6 +2,8 @@
 
 An interactive, beautiful algorithm visualization tool built with React and Vite. Perfect for learning and understanding how different algorithms work through stunning visual animations.
 
+**🌐 Live Demo:** [https://algorithm-visualizer-kappa-eosin.vercel.app](https://algorithm-visualizer-kappa-eosin.vercel.app)
+
 ![Algorithm Visualizer](https://img.shields.io/badge/React-18.3.1-blue)
 ![Vite](https://img.shields.io/badge/Vite-5.4.2-purple)
 ![License](https://img.shields.io/badge/License-MIT-green)
