@@ -30,7 +30,7 @@ function Header() {
 
                 <div className="header-actions">
                     <a
-                        href="https://github.com"
+                        href="https://github.com/Manish7194/algorithm-visualizer"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="btn btn-secondary"

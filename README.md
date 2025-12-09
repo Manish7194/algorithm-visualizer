@@ -58,7 +58,7 @@ An interactive, beautiful algorithm visualization tool built with React and Vite
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/algorithm-visualizer.git
+git clone https://github.com/Manish7194/algorithm-visualizer.git
 cd algorithm-visualizer
 ```
 
